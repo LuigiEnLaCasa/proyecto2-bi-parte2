@@ -1,0 +1,20 @@
+estacion_norm,estacion,sigla,direccion,nombre_localidad,codigo_localidad,latitud,longitud,PK_ESTACION
+sin_medicion,sin_medicion,,,,0,,,0
+bolivia,Bolivia,BOL,avenida calle 80 # 121-98,engativa,10,"4°44'08.9""N","74°07'33.2""W",1
+cdar,CDAR,CDAR,calle 63 # 59a-06,engativa,10,"4°39'30.48""N","74°5'2.28""W",2
+carvajal - sevillana,Carvajal - Sevillana,CSE,autopista sur # 63-40,kennedy,8,"4°35'45.0""N","74°08'54.6""W",3
+ciudad bolivar,Ciudad Bolívar,CBV,calle 70 sur # 56 - 11,ciudad bolivar,19,"4°34'40.1""N","74°09'58.6""W",4
+fontibon,Fontibon,FTB,carrera 104 # 20 c - 31,fontibon,9,"4°40'41.67""N","74°8'37.75""W",5
+guaymaral,Guaymaral,GYR,autopista norte # 205-59,suba,11,"4°47'01.5""N","74°02'38.9""W",6
+kennedy,Kennedy,KEN,carrera 80 # 40-55 sur,kennedy,8,"4°37'30.18""N","74°9'40.80""W",7
+las ferias,Las Ferias,LFR,avenida calle 80 # 69q-50,engativa,10,"4°41'26.52""N","74°4'56.94""W",8
+minambiente,MinAmbiente,MAM,calle 37 # 8-40,santa fe,3,"4°37'31.75""N","74°4'1.13""W",9
+movil 7ma,Móvil 7ma,MOV1,carrera 7 con calle 60,chapinero,2,"4°38'42.7""N","74°03'41.6""W",10
+puente aranda,Puente Aranda,PTE,calle 10 # 65-28,puente aranda,16,"4°37'54.36""N","74°7'2.94""W",11
+suba,Suba,SUB,carrera 111 # 159a-61,suba,11,"4°45'40.49""N","74°5'36.46""W",12
+tunal,Tunal,TUN,carrera 24 # 49-86 sur,tunjuelito,6,"4°34'34.41""N","74°7'51.44""W",13
+usaquen,Usaquen,USQ,carrera 7b bis # 132-11,usaquen,1,"4°42'37.26""N","74°14'9.50""W",14
+usme,Usme,USM,carrera 11 # 65 d 50 sur,usme,5,"4°31'55.4""N","74°7'01.7""W",15
+san cristobal,San Cristobal,SCR,carrera 2 este # 12-78 sur,san cristobal,4,"4°34'21.19""N","74°5'1.73""W",16
+jazmin,Jazmín,JAZ,calle 1 g # 41 a 39,puente aranda,16,"4°36'30.6""N","74°06'53.8""W",17
+colina,Colina,COL,avenida boyaca no 142e-55,suba,11,"4°44'13.9""N","74°04'10.1""W",18

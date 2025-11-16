@@ -1,0 +1,13 @@
+Año,Mes,Temperatura Máxima,Temperatura Mínima,Temperatura promedio,Enos ,mes_nombre,mes_num,fecha_mes
+2021,Enero,"26,5",4,"14,4",Niña,Enero,1,2021-01-01
+2021,Febrero,"26,8",4,"15,2",Niña,Febrero,2,2021-02-01
+2021,Marzo,"26,3","6,5","14,2",Niña,Marzo,3,2021-03-01
+2021,Abril,"26,5","4,9","15,3",Niña,Abril,4,2021-04-01
+2021,Mayo,"27,1","6,8","15,1",Niña,Mayo,5,2021-05-01
+2021,Junio,26,"5,9","14,59",Neutro,Junio,6,2021-06-01
+2021,Julio,"25,3","7,4","14,5",Neutro,Julio,7,2021-07-01
+2021,Agosto,"26,4","6,6","14,52",Niña,Agosto,8,2021-08-01
+2021,Septiembre,"26,1","3,9","14,47",Niña,Septiembre,9,2021-09-01
+2021,Octubre,"26,4","4,9","14,9",Niña,Octubre,10,2021-10-01
+2021,Noviembre,"26,3","4,4","14,82",Niña,Noviembre,11,2021-11-01
+2021,Diciembre,"26,2","4,6","14,69",Niña,Diciembre,12,2021-12-01

@@ -1,0 +1,13 @@
+mes,temp_max,temp_min,temp_prom,enos,mes_num
+Enero,26.5,4.0,14.4,Niña,1
+Febrero,26.8,4.0,15.2,Niña,2
+Marzo,26.3,6.5,14.2,Niña,3
+Abril,26.5,4.9,15.3,Niña,4
+Mayo,27.1,6.8,15.1,Niña,5
+Junio,26.0,5.9,14.59,Neutro,6
+Julio,25.3,7.4,14.5,Neutro,7
+Agosto,26.4,6.6,14.52,Niña,8
+Septiembre,26.1,3.9,14.47,Niña,9
+Octubre,26.4,4.9,14.9,Niña,10
+Noviembre,26.3,4.4,14.82,Niña,11
+Diciembre,26.2,4.6,14.69,Niña,12
